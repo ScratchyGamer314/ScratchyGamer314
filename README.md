@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 *This profile is part of the [GitHub Octo Ring](https://octo-ring.com/)*  
-*[Previous](https://octo-ring.com/p/MaxLaumeister/prev) / [Random](https://octo-ring.com/p/MaxLaumeister/random) / [Next](https://octo-ring.com/p/MaxLaumeister/next)*
+*[Previous](https://octo-ring.com/p/ScratchyGamer314/prev) / [Random](https://octo-ring.com/p/ScratchyGamer314/random) / [Next](https://octo-ring.com/p/ScratchyGamer314/next)*
