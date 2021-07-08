@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 *[Previous](https://octo-ring.com/p/ScratchyGamer314/prev) / [Random](https://octo-ring.com/p/ScratchyGamer314/random) / [Next](https://octo-ring.com/p/ScratchyGamer314/next)*
 
 
-[![ScratchyGamer314's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScratchyGamer314)](https://github.com/anuraghazra/github-readme-stats)
+[![ScratchyGamer314's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScratchyGamer314&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
