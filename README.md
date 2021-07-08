@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 *This profile is part of the [GitHub Octo Ring](https://octo-ring.com/)*  
 *[Previous](https://octo-ring.com/p/ScratchyGamer314/prev) / [Random](https://octo-ring.com/p/ScratchyGamer314/random) / [Next](https://octo-ring.com/p/ScratchyGamer314/next)*
+[![ScratchyGamer314's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScratchyGamer314)](https://github.com/anuraghazra/github-readme-stats)
